@@ -1,15 +1,18 @@
 <img src="https://user-images.githubusercontent.com/87066683/124735066-50642a80-df33-11eb-814d-0e3a5f23f66a.jpg" height=" 450" width="750">
 
-Visitor Count : 
+📊 Visitor Count 
 
-![Visitors](https://profile-counter.glitch.me/{username}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Pandz18}/count.svg)
 
-Hi, I'm a 1st year Computer Engineer, I'm interested in Machine Learning and IoT. I like to learn new things. I am currently learning C++ and the basics of Python.
-I am on Github as i like Open Source and a big enthusiast of it.
- 
+//////////////////////////////////////////////////////////
+
+Hi, I'm a 1st year Computer Engineer, I'm interested in Machine Learning and IoT. I like to learn new things. I am currently learning C++ and the basics of Python. I am on Github as i like Open Source and a big enthusiast of it.
+
+//////////////////////////////////////////////////////////
+
 Contact:
 
-Proton Mail: Pandz18@protonmail.com
+Proton Mail: Pandz18@protonmail.com 
 
 //////////////////////////////////////////////////////////
 
